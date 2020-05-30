@@ -53,3 +53,6 @@ If you are not using SSH, then you may get prompts which asks you for your GitHu
 The script makes the the `git add`, `git commit` and `git push` to your repo and finially, you have your gitfiti:
 
 ![octocat2](https://i.udemycdn.com/redactor/raw/2019-03-10_09-29-10-e63632b7f1fffa9daa894f40f70a1d78.png)
+
+
+P.S : The original instructions were provided by Wolfgang Kreminger. I have modified it a little and included a few things which I felt would clear things a bit more.
